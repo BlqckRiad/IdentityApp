@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IdentityAPP
+build_property.RootNamespace = IdentityAPP
+build_property.ProjectDir = C:\Users\MLNPC\Desktop\asp-net.core dersleri\IdentityAPP\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MLNPC\Desktop\asp-net.core dersleri\IdentityAPP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/Meeting/Apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xNZWV0aW5nXEFwcGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/Meeting/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xNZWV0aW5nXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/Meeting/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xNZWV0aW5nXFRoYW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xTaGFyZWRcX0xheW91dDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/MeetingAPP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWVldGluZ0FQUFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MLNPC/Desktop/asp-net.core dersleri/IdentityAPP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bygc37yren
